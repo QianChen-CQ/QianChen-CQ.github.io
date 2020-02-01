@@ -12,12 +12,12 @@ test
 <table border="0">
   <tr>
     <td>
-      <h1>Zhang San</h1>
-      <p><b>Master</b></p>
-      <p><b>College of ××, ×× University</b></p>
-      <p><b>E-mail：1234567789@qq.com</b></p>
-      <p><b>Address：Rm××, ×× Building, ×× University, ×× Road, Nanjing</b></p>
-      <a href="/index.html">中文版</a>
+      <h1>Qian Chen</h1>
+      <p><b>PhD Candidate</b></p>
+      <p><a href="http://carc.hitsz.edu.cn">CARC Laboratory</a><br/><a href="http://cs.hitsz.edu.cn/">Department of Computer Science and Technology</a><br/><a href="http://www.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a></p>
+      <p><b>计算机应用研究中心，计算机科学与技术学院，哈尔滨工业大学（深圳）</b></p>
+      <p><b>E-mail：qianchen@stu.hit.edu.cn</b></p>
+      <p><b>Address：University Town of Shenzhen, Nanshan District, Shenzhen, Guangdong, China</b></p>
     </td>
     <td  width="30%" >
       <img src="/CQ.jpg" width="100%">
