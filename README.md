@@ -5,7 +5,7 @@
       <h1>Qian Chen</h1>
       <p><b>PhD Candidate</b></p>
       <p><a href="http://carc.hitsz.edu.cn">CARC Laboratory</a><br/><a href="http://cs.hitsz.edu.cn/">Department of Computer Science and Technology</a><br/><a href="http://www.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a></p>
-      <p><b>计算机应用研究中心，计算机科学与技术学院，哈尔滨工业大学（深圳）</b></p>
+      <p><b>计算机应用研究中心，计算机科学与技术学院，<br/>哈尔滨工业大学（深圳）</b></p>
       <p><b>E-mail：qianchen@stu.hit.edu.cn</b></p>
       <p><b>Address：University Town of Shenzhen, Nanshan District, Shenzhen, Guangdong, China</b></p>
     </td>
@@ -24,7 +24,7 @@ You can use the [editor on GitHub](https://github.com/QianChen-CQ/QianChen-CQ.gi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-##Research Interests:
+## Research Interests:
 
 - Privacy-Preserving(隐私保护), 
 - Cryptography(密码学),
