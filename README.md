@@ -48,9 +48,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Working Experience：
 
 - 2018.7-2019.8：Experimental and Creative Practice Education Center, Harbin Institute of Technology, Shenzhen, Experimentalist<br/>
-                 哈尔滨工业大学（深圳），实验与创新实践教育中心，实验师
-               
-       Teaching： Compiling principle（编译原理），High level language program (高级语言程序设计) and so on.
+               &ensp&ensp&ensp  哈尔滨工业大学（深圳），实验与创新实践教育中心，实验师<br/>
+              &ensp&ensp&ensp Teaching： Compiling principle（编译原理），High level language program (高级语言程序设计) and so on.
 
 ### Markdown
 
