@@ -39,9 +39,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - 2011.9-2016.7: Computer Science and Technology, Zhengzhou University, Bachelor
                  郑州大学，计算机科学与技术专业，学士
                  Supervisor：
-- 2016.9-2018.7: Computer Science and Technology, Harbin Institute of Technology, Shenzhen, Master
-                 哈尔滨工业大学（深圳），计算机科学与技术，博士在读
-                 First place in recommended graduate students
+- 2016.9-2018.7: Computer Science and Technology, Harbin Institute of Technology, Shenzhen, Master<br/>
+                 哈尔滨工业大学（深圳），计算机科学与技术，博士在读<br/>
+                 First place in recommended graduate students<br/>
                  Surpervisor： <a href="http://homepage.hit.edu.cn/pages/wangxuan" target="_blank">Prof. Lin Jiang</a>    
 
 
@@ -49,7 +49,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - 2018.7-2019.8：Experimental and Creative Practice Education Center, Harbin Institute of Technology, Shenzhen, Experimentalist<br/>
                 哈尔滨工业大学（深圳），实验与创新实践教育中心，实验师<br/>
-   - Teaching： Compiling principle（编译原理），High level language program (高级语言程序设计) and so on.
+- Teaching： Compiling principle（编译原理，High level language program (高级语言程序设计) and so on.
 
 ### Markdown
 
