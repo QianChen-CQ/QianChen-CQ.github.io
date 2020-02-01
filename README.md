@@ -3,8 +3,8 @@
   <tr>
     <td>
       <h1>Qian Chen</h1>
-      <p><b>陈倩，在读博士研究生</b></p>
       <p><b>PhD Candidate</b></p>
+      <p><b>陈倩，在读博士研究生</b></p>
       <p><a href="http://carc.hitsz.edu.cn">CARC Laboratory</a><br/><a href="http://cs.hitsz.edu.cn/">Department of Computer Science and Technology</a><br/><a href="http://www.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a></p>
       <p><b>计算机应用研究中心，计算机科学与技术学院，<br/>哈尔滨工业大学（深圳）</b></p>
       <p><b>E-mail：qianchen@stu.hit.edu.cn</b></p>
@@ -47,9 +47,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Working Experience：
 
-- 2018.7-2019.8：Experimental and Creative Practice Education Center, Harbin Institute of Technology, Shenzhen, Experimentalist
-                
-                哈尔滨工业大学（深圳），实验与创新实践教育中心，实验师
+- 2018.7-2019.8：Experimental and Creative Practice Education Center, Harbin Institute of Technology, Shenzhen, Experimentalist<br/>
+                 哈尔滨工业大学（深圳），实验与创新实践教育中心，实验师
                
        Teaching： Compiling principle（编译原理），High level language program (高级语言程序设计) and so on.
 
