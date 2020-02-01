@@ -45,7 +45,7 @@
 - 2018.7-2019.8：Experimental and Creative Practice Education Center, Harbin Institute of Technology, Shenzhen, Experimentalist<br/>
                 哈尔滨工业大学（深圳），实验与创新实践教育中心，实验师<br/>
 - Teaching： Compiling principle（编译原理，High level language program (高级语言程序设计) and so on.
-<hr/>
+<hr style="background-color: green;border: none;height: 4px/>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
