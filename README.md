@@ -1,13 +1,3 @@
-# Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/QianChen-CQ/QianChen-CQ.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-test
-       Qian Chen
-# Qian Chen
-## Qian Chen
-### Qian Chen
 <div>
 <table border="0">
   <tr>
@@ -27,11 +17,20 @@ test
 </div>
 
 
-Research Directions:
+# Welcome to GitHub Pages
 
-研究方向：
+You can use the [editor on GitHub](https://github.com/QianChen-CQ/QianChen-CQ.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-        Cryptography, Federal Learning, Artificial Intelligence, Digital Forensics
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+##Research Interests:
+- Privacy-Preserving(隐私保护), 
+- Cryptography(密码学),
+- Federal Learning(联邦学习), 
+- Deep Learning(深度学习)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
