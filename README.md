@@ -18,7 +18,7 @@ test
       <p><b>E-mail：1234567789@qq.com</b></p>
       <p><b>Address：Rm××, ×× Building, ×× University, ×× Road, Nanjing</b></p>
       <a href="/index.html">中文版</a>
-    </td>
+    </td width="30%">
     <td >
       <img src="/CQ.jpg" width="100%">
     </td>
