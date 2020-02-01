@@ -33,16 +33,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Education Experience：
 
-- 2019.9  - Now: Computer Science and Technology, Harbin Institute of Technology, Shenzhen, PhD Candidate
-                 哈尔滨工业大学（深圳），计算机科学与技术，博士在读
-                 Surpervisor： <a href="http://homepage.hit.edu.cn/pages/wangxuan" target="_blank">Prof. Xuan Wang</a>                   
-- 2011.9-2016.7: Computer Science and Technology, Zhengzhou University, Bachelor
-                 郑州大学，计算机科学与技术专业，学士
-                 Supervisor：
-- 2016.9-2018.7: Computer Science and Technology, Harbin Institute of Technology, Shenzhen, Master<br/>
+- 2019.9  - Now: Computer Science and Technology, Harbin Institute of Technology, Shenzhen, PhD Candidate<br/>
                  哈尔滨工业大学（深圳），计算机科学与技术，博士在读<br/>
+                 Surpervisor：[Prof. Xuan Wang](http://homepage.hit.edu.cn/pages/wangxuan) 
+- 2016.9-2018.7: Computer Science and Technology, Harbin Institute of Technology, Shenzhen, Master<br/>
+                 哈尔滨工业大学（深圳），计算机科学与技术，硕士<br/>
                  First place in recommended graduate students<br/>
-                 Surpervisor： <a href="http://homepage.hit.edu.cn/pages/wangxuan" target="_blank">Prof. Lin Jiang</a>    
+                 Surpervisor： <a href="http://www.hitsz.edu.cn/teacher/view/id-706.html" target="_blank">Prof. Lin Jiang</a>  
+- 2011.9-2016.7: Computer Science and Technology, Zhengzhou University, Bachelor<br/>
+                 郑州大学，计算机科学与技术专业，学士<br>
+                 Supervisor：[Prof. LiMing Wang](http://www5.zzu.edu.cn/ie/info/1016/1418.htm) 
 
 
 ## Working Experience：
