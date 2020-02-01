@@ -48,6 +48,20 @@
 
 <hr style="background-color: green; height: 6px" />
 
+## Selected Publications
+ 
+- (EI, S&P workshop)[Qian Chen](https://qianchen-cq.github.io), etc. File Fragment Classification Using Grayscale Image Conversion and Deep Learning in Digital Forensics. IEEE Symposium on Security and Privacy Workshops,2018,pp:140-147
+
+- (SCI,JCR Q1, IF: )
+
+- (EI) Yifan Li, Xuan Wang, Zoe L. Jiang, Shuhan Qi, Xinhui Liu, [Qian Chen](https://qianchen-cq.github.io). RGB-D tracker under Hierarchical structure. CIFEr 2019: 1-6
+### Under Review
+- (SCI,JCR Q2,IF: 3.062, Under Review )Junbin Fang, Guikai Xi, Long Li, [Qian Chen](https://qianchen-cq.github.io), Puxi Lin, Sijin Li, Siu-Ming Yiu and ZoeL. Jiang. Coarse-to-Fine Two-Stage Semantic Video Carving Approach in Digital Forensics. COMPUTERS & SECURITY, 2020.
+- (CCF A,EI) [Qian Chen](https://qianchen-cq.github.io), Xuan Wang etc. XXXXXXXXXXXXXXXXXXXXX Double blind trial, IJCAI, 2020
+- (CCF A,EI) Zoe L. Jiang, Hui Kwok, [Qian Chen](https://qianchen-cq.github.io), etc. XXXXXXXXXXXXXXXXXX Double blind trial, ICML, 2020
+
+<hr style="background-color: green; height: 6px" />
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
