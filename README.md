@@ -17,12 +17,6 @@
 </table>
 </div>
 
-# Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/QianChen-CQ/QianChen-CQ.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 
 ## Research Interests:
 
@@ -35,6 +29,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - 2019.9  - Now: Computer Science and Technology, Harbin Institute of Technology, Shenzhen, PhD Candidate <br/>
                  哈尔滨工业大学（深圳），计算机科学与技术，博士在读 <br/>
+                 [First place](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=cf6b4007c98a40389bb4ea7e33454b40&xxlm=15) in comprehensive appraisal of admission <br/>
                  Surpervisor：[Prof. Xuan Wang](http://homepage.hit.edu.cn/pages/wangxuan)  <br/>
 - 2016.9-2018.7: Computer Science and Technology, Harbin Institute of Technology, Shenzhen, Master<br/>
                  哈尔滨工业大学（深圳），计算机科学与技术，硕士<br/>
@@ -50,7 +45,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - 2018.7-2019.8：Experimental and Creative Practice Education Center, Harbin Institute of Technology, Shenzhen, Experimentalist<br/>
                 哈尔滨工业大学（深圳），实验与创新实践教育中心，实验师<br/>
 - Teaching： Compiling principle（编译原理，High level language program (高级语言程序设计) and so on.
-
+===============================================================================================================
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
