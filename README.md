@@ -10,7 +10,7 @@
       <p><b>Address：University Town of Shenzhen, Nanshan District, Shenzhen, Guangdong, China</b></p>
     </td>
     <td  width="30%" >
-      <img src="/CQ.jpg" width="100%">
+      <img src="CQ.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -25,6 +25,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ##Research Interests:
+
 - Privacy-Preserving(隐私保护), 
 - Cryptography(密码学),
 - Federal Learning(联邦学习), 
