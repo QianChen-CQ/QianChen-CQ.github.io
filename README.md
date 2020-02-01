@@ -24,7 +24,7 @@
 - Cryptography(密码学),
 - Federal Learning(联邦学习), 
 - Deep Learning(深度学习)
-
+<hr style="background-color: green; height: 6px" />
 ## Education Experience：
 
 - 2019.9  - Now: Computer Science and Technology, Harbin Institute of Technology, Shenzhen, PhD Candidate <br/>
@@ -60,7 +60,9 @@
 
 <hr style="background-color: green; height: 6px" />
 
-<table border="1" cellspacing="0" style="width:699px;"><tbody><tr><td style="width:24.45pt;">
+## Selected Projects
+
+<table border="1" cellspacing="0" style="width:100%;"><tbody><tr><td style="width:24.45pt;">
 			<p style="margin-left:0cm;"> </p>
 			</td>
 			<td style="width:202.1pt;">
