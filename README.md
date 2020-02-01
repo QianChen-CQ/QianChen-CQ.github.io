@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/QianChen-CQ/QianChen-CQ.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,23 +8,7 @@ test
 # Qian Chen
 ## Qian Chen
 ### Qian Chen
-<div>
-<table border="0">
-  <tr>
-    <td>
-      <h1>Qian Chen</h1>
-      <p><b>PhD Candidate</b></p>
-      <p><b>College of ××, ×× University</b></p>
-      <p><b>E-mail：qianchen@stu.hit.edu.cn</b></p>
-      <p><b>Address：Rm××, ×× Building, ×× University, ×× Road, Nanjing</b></p>
-      <a href="/index.html">中文版</a>
-    </td>
-    <td width="35%">
-      <img src="/CQ.jpg" width="100%">
-    </td>
-  </tr>
-</table>
-</div>
+
 
 Research Directions:
 
