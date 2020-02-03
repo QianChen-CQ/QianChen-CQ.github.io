@@ -11,7 +11,7 @@
       <p><b>Address：University Town of Shenzhen, Nanshan District, Shenzhen, Guangdong, China</b></p>
     </td>
     <td  width="30%" >
-      <img src="CQ.jpg" width="100%">
+      <img src="/CQ.jpg" width="100%">
     </td>
   </tr>
 </table>
