@@ -1,3 +1,8 @@
+
+<title>标题</title>
+<script>
+    document.title = 'hello QianChen'
+</script>
 <div>
 <table border="0">
   <tr>
