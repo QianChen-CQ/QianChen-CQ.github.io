@@ -1,7 +1,7 @@
 
 <title>标题</title>
 <script>
-    document.title = 'hello QianChen'
+    document.title = 'QianChen's Website'
 </script>
 <div>
 <table border="0">
