@@ -228,16 +228,16 @@ Hardware. Authorization Number: ZL 202111103182.1 (Authorized)
 
 ## Representative Prizes, Awards and Scholarships:
 
-– February 2021, Outstanding Paper Award in Computer Academy of Guangdong
-– The 3rd National Artificial Intelligence Innovation and Entrepreneurship Conference (Innovation), Grand prize
-– The 6th “TaiDi Cup” Data Mining Challenge, Guangdong Province, The third prize
-– September 2017, Second-class scholarship in Harbin Institute of Technology
-– September 2016, First-class scholarship in Harbin Institute of Technology
-– November 2014, University-level outstanding students’s third-class scholarship in Zhengzhou University
-– The 5th “Blue Bridge Cup” C/C++ Programming Undergraduate Group A, Excellent prize
-– The 7th ACM College Student Programming Competition of Zhengzhou University, First prize
-– December 2012, Zhengzhou University, “Merit Student”
-– December 2012, National Encouragement Scholarship
+- February 2021, Outstanding Paper Award in Computer Academy of Guangdong
+- The 3rd National Artificial Intelligence Innovation and Entrepreneurship Conference (Innovation), Grand prize
+- The 6th “TaiDi Cup” Data Mining Challenge, Guangdong Province, The third prize
+- September 2017, Second-class scholarship in Harbin Institute of Technology
+- September 2016, First-class scholarship in Harbin Institute of Technology
+- November 2014, University-level outstanding students’s third-class scholarship in Zhengzhou University
+- The 5th “Blue Bridge Cup” C/C++ Programming Undergraduate Group A, Excellent prize
+- The 7th ACM College Student Programming Competition of Zhengzhou University, First prize
+- December 2012, Zhengzhou University, “Merit Student”
+- December 2012, National Encouragement Scholarship
 
 ## Skills and Interests: Table Tennis and badminton
 
