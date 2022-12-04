@@ -241,10 +241,10 @@ Hardware. Authorization Number: ZL 202111103182.1 (Authorized)
 
 ## Skills and Interests: Table Tennis and badminton
 
-– Harbin Institute of Technology (Shenzhen) first table tennis tournament,
+- Harbin Institute of Technology (Shenzhen) first table tennis tournament,
 First place in singles, March 2018
-– Computer Academy ”Guangxi Cup” individual basketball shooting,
+- Computer Academy ”Guangxi Cup” individual basketball shooting,
 First place, 2017
-– The 2nd Shenzhen University City Sports Games Table Tennis Competition,
+- The 2nd Shenzhen University City Sports Games Table Tennis Competition,
 Second place in group competition, December 2017
-– National Grade II Athletes of Table tennis, and won many awards in provincial competitions.
+- National Grade II Athletes of Table tennis, and won many awards in provincial competitions.
