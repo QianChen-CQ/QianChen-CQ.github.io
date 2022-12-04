@@ -88,7 +88,8 @@ Number: ZL 202210424254.0 (Authorized)
 Hardware. Authorization Number: ZL 202111103182.1 (Authorized)
 
 <hr style="background-color: green; height: 6px" />
-## Selected Projects
+
+## Projects
 
 <table border="1" cellspacing="0" style="width:100%;"><tbody><tr><td style="width:24.45pt;">
 			<p style="margin-left:0cm;"> </p>
@@ -223,5 +224,27 @@ Hardware. Authorization Number: ZL 202111103182.1 (Authorized)
 			</td>
 		</tr></tbody></table>
 
+<hr style="background-color: green; height: 6px" />
 
+## Representative Prizes, Awards and Scholarships:
 
+– February 2021, Outstanding Paper Award in Computer Academy of Guangdong
+– The 3rd National Artificial Intelligence Innovation and Entrepreneurship Conference (Innovation), Grand prize
+– The 6th “TaiDi Cup” Data Mining Challenge, Guangdong Province, The third prize
+– September 2017, Second-class scholarship in Harbin Institute of Technology
+– September 2016, First-class scholarship in Harbin Institute of Technology
+– November 2014, University-level outstanding students’s third-class scholarship in Zhengzhou University
+– The 5th “Blue Bridge Cup” C/C++ Programming Undergraduate Group A, Excellent prize
+– The 7th ACM College Student Programming Competition of Zhengzhou University, First prize
+– December 2012, Zhengzhou University, “Merit Student”
+– December 2012, National Encouragement Scholarship
+
+## Skills and Interests: Table Tennis and badminton
+
+– Harbin Institute of Technology (Shenzhen) first table tennis tournament,
+First place in singles, March 2018
+– Computer Academy ”Guangxi Cup” individual basketball shooting,
+First place, 2017
+– The 2nd Shenzhen University City Sports Games Table Tennis Competition,
+Second place in group competition, December 2017
+– National Grade II Athletes of Table tennis, and won many awards in provincial competitions.
