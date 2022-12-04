@@ -121,6 +121,21 @@ Hardware. Authorization Number: ZL 202111103182.1 (Authorized)
 			<p style="margin-left:0cm;">-2020.06</p>
 			</td>
 		</tr><tr><td style="width:24.45pt;">
+			<p style="margin-left:0cm;">2</p>
+			</td>
+			<td style="width:202.1pt;">
+			<p style="margin-left:0cm;"> Guangdong Science and Technology Program- Key Areas R&D Program</p>
+			<p style="margin-left:0cm;">广东省重点领域研发计划</p>
+			</td>
+			<td style="width:219.75pt;">
+			<p style="margin-left:0cm;">Super-scale AI computing power driven non-complete information Development and application of key technologies for game decision making</p>
+			<p style="margin-left:0cm;">超大规模AI计力驱动的非完全信息博弈决策关键技术研发与应用</p>
+			</td>
+			<td style="width:77.95pt;">
+			<p style="margin-left:0cm;">2020.10</p>
+			<p style="margin-left:0cm;">-2023.09</p>
+			</td>	
+		</tr><tr><td style="width:24.45pt;">
 			<p style="margin-left:0cm;">3</p>
 			</td>
 			<td style="width:202.1pt;">
