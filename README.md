@@ -106,21 +106,6 @@ Hardware. Authorization Number: ZL 202111103182.1 (Authorized)
 			<p style="margin-left:0cm;"><strong><span style="color:#000000;">起止</span></strong><br /><strong><span style="color:#000000;">时间</span></strong></p>
 			</td>
 		</tr><tr><td style="width:24.45pt;">
-			<p style="margin-left:0cm;">1</p>
-			</td>
-			<td style="width:202.1pt;">
-			<p style="margin-left:0cm;">Ministry of Education Collaborative Education Project</p>
-			<p style="margin-left:0cm;">教育部协同育人项目</p>
-			</td>
-			<td style="width:219.75pt;">
-			<p style="margin-left:0cm;">Network Security Experiment Course Construction</p>
-			<p style="margin-left:0cm;">网络安全实验课程建设</p>
-			</td>
-			<td style="width:77.95pt;">
-			<p style="margin-left:0cm;">2019.12<br />
-			-2020.12</p>
-			</td>
-		</tr><tr><td style="width:24.45pt;">
 			<p style="margin-left:0cm;">2</p>
 			</td>
 			<td style="width:202.1pt;">
