@@ -24,11 +24,10 @@
 
 
 ## Research Interests:
-
-- Privacy-Preserving(隐私保护), 
-- Cryptography(密码学),
-- Federated Learning(联邦学习), 
-- Deep Learning(深度学习)
+- Algorithmic Game Theory(博弈论), 
+- Auction Mechanism(拍卖机制), 
+- Privacy Preserving(隐私保护), 
+- Deep Learning(深度学习), 
 <hr style="background-color: green; height: 6px" />
 ## Education Experience：
 
