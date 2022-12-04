@@ -13,7 +13,7 @@
       <p><a href="http://carc.hitsz.edu.cn">CARC Laboratory</a><br/><a href="http://cs.hitsz.edu.cn/">Department of Computer Science and Technology</a><br/><a href="http://www.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a></p>
       <p><b>计算机应用研究中心，计算机科学与技术学院，<br/>哈尔滨工业大学（深圳）</b></p>
       <p><b>E-mail：qianchen@stu.hit.edu.cn</b></p>
-      <p><b>Address：University Town of Shenzhen, Nanshan District, Shenzhen, Guangdong, China</b></p>
+      <p><b>Address：HITSZ, University Town of Shenzhen, Nanshan District, Shenzhen, Guangdong, China</b></p>
     </td>
     <td  width="30%" >
       <img src="/CQ1.jpg" width="100%">
