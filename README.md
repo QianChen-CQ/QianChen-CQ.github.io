@@ -46,13 +46,18 @@
 
 ## Working Experience：
 
-- 2018.7-2019.8：Experimental and Creative Practice Education Center, Harbin Institute of Technology, Shenzhen, Experimentalist<br/>
+- 2018.7-2019.8：Experimentalist, Experimental and Creative Practice Education Center, Harbin Institute of Technology, Shenzhen<br/>
                 哈尔滨工业大学（深圳），实验与创新实践教育中心，实验师<br/>
 - Teaching： Compiling principle(编译原理)，High level language program(高级语言程序设计) and so on.
 
+- 2020.1-now：Intern, Network Intelligence Department, Pengcheng National Laboratory<br/>
+                鹏城实验室，实习<br/>
+- 2022.2-now：PINGAN-HITsz Intelligence Finance Research Research Center<br/>
+                哈工大（深圳）+ 平安科技粤港澳智慧金融研究中心，实习<br/>
+
 <hr style="background-color: green; height: 6px" />
 
-## Selected Publications:
+## Academic Papers:
 
 - (SCI, JCR Q2, IF:3.847) [Qian Chen](https://qianchen-cq.github.io), Lin Yao, Xuan Wang*, Zoe L. Jiang, Yulin Wu and Tianzi Ma. SecMDGM: Federated Learning Security Mechanism Based on Multi-Dimensional Auctions. Sensors, 2022, 22(23):9434. 
 - (SCI, JCR Q2, IF:5.102) [Qian Chen](https://qianchen-cq.github.io), Xuan Wang*，Zoe Lin Jiang，Yulin Wu，Huale Li，Lei Cui，Xiaozhen Sun. Breaking the traditional: A Survey of Algorithmic Mechanism Design Applied to Economic and Complex Environments. NEURAL COMPUTING & APPLICATIONS, 2022. (Accept with Amendments)
@@ -64,12 +69,25 @@
 - (SCI, JCR Q2, IF:3.062) Junbin Fang, Guikai Xi, Long Li, [Qian Chen](https://qianchen-cq.github.io), Puxi Lin, Sijin Li, Siu-Ming Yiu and ZoeL. Jiang. Coarse-to-Fine Two-Stage Semantic Video Carving Approach in Digital Forensics. COMPUTERS & SECURITY, 2020.
 - (EI, CCF A workshop) Chengjin Liu, ZoeL.Jiang, Xin Zhao, [Qian Chen](https://qianchen-cq.github.io), Yang Liu, Xuan Wang. Multi-party secure logistic regression scheme based on leveled fully homomorphic encryption and trusted hardware. INFOCOM WKSHPS, 2022.6.20.
 - (EI) Yifan Li, Xuan Wang, Zoe L. Jiang, Shuhan Qi, Xinhui Liu, [Qian Chen](https://qianchen-cq.github.io). RGB-D tracker under Hierarchical structure. CIFEr 2019: 1-6.
-### Under Review
-
 
 
 <hr style="background-color: green; height: 6px" />
 
+## Patents for Inventions:
+
+- A Digital Forensics File Fragment Classification Method Based on Digital Image Transformation and Deep
+Learning. Application Number: 201810455121.3
+- Consensus method and device based on aggregated signature and temporal proof algorithm. Application Number:
+Not given
+- A method and system for heterogeneous acceleration of privacy computing based on full homomorphic encryption.
+Application Number: Not given
+- Complementary operator and operation method based on multi-key fully homomorphic scheme. Authorization
+Number: ZL 202210424254.0 (Authorized)
+- Black-box traceable key attribute encryption method and apparatus based on DFA adaptive security. Authorization Number: ZL 202210357035.5 (Authorized)
+- A Multi-Party Privacy-Preserving Machine Learning Approach Based on Homomorphic Encryption and Trusted
+Hardware. Authorization Number: ZL 202111103182.1 (Authorized)
+
+<hr style="background-color: green; height: 6px" />
 ## Selected Projects
 
 <table border="1" cellspacing="0" style="width:100%;"><tbody><tr><td style="width:24.45pt;">
