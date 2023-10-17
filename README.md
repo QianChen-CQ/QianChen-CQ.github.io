@@ -60,7 +60,7 @@
 ## Academic Papers:
 
 - (SCI, JCR Q2, IF:3.847) [Qian Chen](https://qianchen-cq.github.io), Lin Yao, Xuan Wang*, Zoe L. Jiang, Yulin Wu and Tianzi Ma. SecMDGM: Federated Learning Security Mechanism Based on Multi-Dimensional Auctions. Sensors, 2022, 22(23):9434. 
-- (SCI, JCR Q2, IF:5.102) [Qian Chen](https://qianchen-cq.github.io), Xuan Wang*，Zoe Lin Jiang，Yulin Wu，Huale Li，Lei Cui，Xiaozhen Sun. Breaking the traditional: A Survey of Algorithmic Mechanism Design Applied to Economic and Complex Environments. NEURAL COMPUTING & APPLICATIONS, 2022. (Accept with Amendments)
+- (SCI, JCR Q2, IF:5.102) [Qian Chen](https://qianchen-cq.github.io), Xuan Wang*，Zoe Lin Jiang，Yulin Wu，Huale Li，Lei Cui，Xiaozhen Sun. Breaking the traditional: A Survey of Algorithmic Mechanism Design Applied to Economic and Complex Environments. NEURAL COMPUTING & APPLICATIONS, 2022. 
 - (EI, CCF A workshop) [Qian Chen](https://qianchen-cq.github.io), etc. File Fragment Classification Using Grayscale Image Conversion and Deep Learning in Digital Forensics. IEEE Symposium on Security and Privacy Workshops,2018,pp:140-147.
 - (EI) [Qian Chen](https://qianchen-cq.github.io), Lin Yao, Yulin Wu, Xuan Wang*, Weizhe Zhang, Zoe Jiang*, Yang Liu, Mamoun Alazab. PyHENet: A Generic Framework for Privacy-Preserving DL Inference Based on Fully Homomorphic Encryption. ICDIS, 2022.8. 
 - (EI, CCF A) [Qian Chen](https://qianchen-cq.github.io)，Xuan Wang*, Zoe L. Jiang，etc. Can the Double Auction Mechanism be Improved? Boosting the Social Welfare of Automobile Sales Market. WWW, 2022.(under review)
