@@ -59,15 +59,16 @@
 
 ## Academic Papers:
 
+- (SCI, JCR Q1, IF:4.715) [Qian Chen](https://qianchen-cq.github.io), Yulin Wu, Xuan Wang*, Zoe Lin Jiang*, Weizhe Zhang, Yang Liu, Mamoun Alazab. A Generic Cryptographic Deep-Learning Inference Platform for Remote Sensing Scenes.IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023, 16: 3309-3321.
 - (SCI, JCR Q2, IF:3.847) [Qian Chen](https://qianchen-cq.github.io), Lin Yao, Xuan Wang*, Zoe L. Jiang, Yulin Wu and Tianzi Ma. SecMDGM: Federated Learning Security Mechanism Based on Multi-Dimensional Auctions. Sensors, 2022, 22(23):9434. 
 - (SCI, JCR Q2, IF:5.102) [Qian Chen](https://qianchen-cq.github.io), Xuan Wang*，Zoe Lin Jiang，Yulin Wu，Huale Li，Lei Cui，Xiaozhen Sun. Breaking the traditional: A Survey of Algorithmic Mechanism Design Applied to Economic and Complex Environments. NEURAL COMPUTING & APPLICATIONS, 2023, 35(22): 16193-16222
-- (EI, CCF A workshop) [Qian Chen](https://qianchen-cq.github.io), etc. File Fragment Classification Using Grayscale Image Conversion and Deep Learning in Digital Forensics. IEEE Symposium on Security and Privacy Workshops,2018,pp:140-147.
-- (EI) [Qian Chen](https://qianchen-cq.github.io), Lin Yao, Yulin Wu, Xuan Wang*, Weizhe Zhang, Zoe Jiang*, Yang Liu, Mamoun Alazab. PyHENet: A Generic Framework for Privacy-Preserving DL Inference Based on Fully Homomorphic Encryption. ICDIS, 2022.8. 
-- (EI, CCF A) [Qian Chen](https://qianchen-cq.github.io)，Xuan Wang*, Zoe L. Jiang，etc. Can the Double Auction Mechanism be Improved? Boosting the Social Welfare of Automobile Sales Market. WWW, 2022.(under review)
+- (CCF C) [Qian Chen](https://qianchen-cq.github.io), Xuan Wang*, ZoeLin Jiang*. Efficient Cloud Computing Resource Management Strategy Based on Auction Mechanism. APNOMS, 2023, 286-289.
+- (CCF A workshop) [Qian Chen](https://qianchen-cq.github.io), etc. File Fragment Classification Using Grayscale Image Conversion and Deep Learning in Digital Forensics. IEEE Symposium on Security and Privacy Workshops, 2018, pp:140-147.
+- (EI) [Qian Chen](https://qianchen-cq.github.io), Lin Yao, Yulin Wu, Xuan Wang*, Weizhe Zhang, Zoe Jiang*, Yang Liu, Mamoun Alazab. PyHENet: A Generic Framework for Privacy-Preserving DL Inference Based on Fully Homomorphic Encryption, ICDIS, 2022. 
 - (SCI, JCR Q1, IF:6.404) Yulin Wu, Xuan Wang, Willy Susilo, Guomin Yang, Zoe L. Jiang, [Qian Chen](https://qianchen-cq.github.io), Peng Xu. Efficient Server-Aided Secure Two-Party Computation in Heterogeneous Mobile Cloud Computing, IEEE Transactions on Dependable and Secure Computing, TDSC, 2022. 
 - (SCI, JCR Q1, IF:7.302) Huale Li, Xuan Wang, Fengwei Jia, Yifan Li, [Qian Chen](https://qianchen-cq.github.io). A Survey of Nash Equilibrium Strategy Solving Based on CFR, Archives of Computational Methods in Engineering. JUN 2021,28(4): 2749-2760.
 - (SCI, JCR Q2, IF:3.062) Junbin Fang, Guikai Xi, Long Li, [Qian Chen](https://qianchen-cq.github.io), Puxi Lin, Sijin Li, Siu-Ming Yiu and ZoeL. Jiang. Coarse-to-Fine Two-Stage Semantic Video Carving Approach in Digital Forensics. COMPUTERS & SECURITY, 2020.
-- (EI, CCF A workshop) Chengjin Liu, ZoeL.Jiang, Xin Zhao, [Qian Chen](https://qianchen-cq.github.io), Yang Liu, Xuan Wang. Multi-party secure logistic regression scheme based on leveled fully homomorphic encryption and trusted hardware. INFOCOM WKSHPS, 2022.6.20.
+- (CCF A workshop) Chengjin Liu, ZoeL.Jiang, Xin Zhao, [Qian Chen](https://qianchen-cq.github.io), Yang Liu, Xuan Wang. Multi-party secure logistic regression scheme based on leveled fully homomorphic encryption and trusted hardware. INFOCOM WKSHPS, 2022.6.20.
 - (EI) Yifan Li, Xuan Wang, Zoe L. Jiang, Shuhan Qi, Xinhui Liu, [Qian Chen](https://qianchen-cq.github.io). RGB-D tracker under Hierarchical structure. CIFEr 2019: 1-6.
 
 
