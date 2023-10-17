@@ -35,6 +35,10 @@
                  哈尔滨工业大学（深圳），计算机科学与技术，博士在读 <br/>
                  [First place](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=cf6b4007c98a40389bb4ea7e33454b40&xxlm=15) in comprehensive appraisal of admission <br/>
                  Surpervisor：[Prof. Xuan Wang](http://homepage.hit.edu.cn/pages/wangxuan)  <br/>
+- 2023.2  - Now: Information Systems, College of Business, City University of Hong Kong, Visiting Student <br/>
+                 香港城市大学，商学院，信息系统，访问学生 <br/>
+                 [First place](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=cf6b4007c98a40389bb4ea7e33454b40&xxlm=15) in comprehensive appraisal of admission <br/>
+                 Surpervisor：[Prof. Xuan Wang](http://homepage.hit.edu.cn/pages/wangxuan)  <br/>
 - 2016.9-2018.7: Computer Science and Technology, Harbin Institute of Technology, Shenzhen, Master<br/>
                  哈尔滨工业大学（深圳），计算机科学与技术，硕士<br/>
                  First place in recommended graduate students<br/>
